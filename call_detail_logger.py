@@ -380,4 +380,4 @@ if __name__ == '__main__':
 
 # Close the Modem Port when the program terminates
 atexit.register(close_modem_port)
-#=================================================================
+#============policanifilamonanictapices=====================================================
